@@ -9,3 +9,4 @@ Just testing to see if all the Git commands are working as expected
   4) git commit --> After adding to stage the changes that is to save the changes
   5) git push origin master ---> After commit to store the changes in the git repository
   6) git status ---> gives the status that is what are all the files changed or modified and in what branch we are
+  7) additional commands refer git official site
